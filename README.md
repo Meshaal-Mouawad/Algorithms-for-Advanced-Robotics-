@@ -1,5 +1,8 @@
-Welcome to the Algorithms-for-Advanced-Robotics- wiki!
-Most of the information here are sources from Dr. Luo lectures 
+Welcome to the Algorithms-for-Advanced-Robotics-
+
+Most of the information here are sources from Dr. Luo C. lectures, MSU, ECE.
+
+(This Page have not been completed)
 
 # Intelligent Robots consist of:
 * Sensor Configuration (hardware)
@@ -85,3 +88,13 @@ Abstract— A  mobile  manipulator  is  widely  used  for  manyscenarios such as
 
 https://ieeexplore.ieee.org/document/8961514
 
+# Challenges in Robotics
+* Autonomous vehicles – cars, delivers, etc
+* Consumable robots – toys, vacuum cleaner, lawn mover, pool cleaner
+* Robotic companions
+* Search and rescue missions
+* Environmental exploration
+* Robotic surgery
+* Multi-robot coordination 
+
+In addition to other technological challenges, new efficient AI algorithms MUST be developed to address the nowadays and future challenges.
