@@ -45,8 +45,12 @@ that cause the disaster.
 * Fallen parts from aircraft and other operating machine on the airport runways and taxiways are critical for aviation safety.
 * Human capability of inspection for the fallen parts on runway and taxiway is restricted nowadays.
 
-[Solution]
-Inspection Robot System
+## [Solution]
+* Idea: Inspection Robot System that can find such that material and remove it. 
+
+![image](https://user-images.githubusercontent.com/72484101/144494807-470e5c55-6d5e-4b05-b814-d2f482e41dfd.png)
+
+Dynamic Matlab-ROS mobile manipulator platform
 
 1. Sensors:
 * Hokuyo Lidar
@@ -57,6 +61,22 @@ Inspection Robot System
 * Trossen WidowX Robot Arm
 3. Embedded System
 * Intel NUC
+
+![image](https://user-images.githubusercontent.com/72484101/144495168-519cce00-3662-4a15-8d1b-702192d8b540.png)
+
+Hardware architecture
+
+![image](https://user-images.githubusercontent.com/72484101/144495268-ebd3edf8-3795-41a2-a234-9d2c5a8ecf9a.png)
+
+Hardware architecture showing the signal flowing and powering
+
+![image](https://user-images.githubusercontent.com/72484101/144495571-95c6fa04-4825-481d-9d57-e4b7d88753f1.png)
+
+WidowX Robot Arm working range
+
+Figuers source:
+
+1.Xihan Ma, Honglin Sun, Enwei Xu, Song Cui, Boqun Yin, Mariam Faied, "FSM for Robot Target Search and Retrieval under Semi-constructed Environment", Mechatronics and Automation (ICMA) 2020 IEEE International Conference on, pp. 296-301, 2020.
 
 ## [Publish]
 A  Hybrid  Navigation  and  Image  Processing  Model  with  Dynamic Mobile  Manipulation. 
